@@ -1,4 +1,4 @@
-# 01-first-project
+# 08-event-handling
 
 This template should help get you started developing with Vue 3 in Vite.
 
